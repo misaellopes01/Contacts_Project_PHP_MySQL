@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+html {
+    scroll-behavior: smooth;
+}
+
+.navbar-theme {
+    background-color: #000;
+    color: crimson;
+    font-family: 'Poppins Medium', sans-serif;
+}
+
+.sec {
+    margin: 3rem;
+    display: flexbox;
+}
+
+.legen {
+    text-align: center;
+    margin-bottom: 3rem;
+    text-transform: uppercase;
+    font-family: 'Poppins SemiBold', sans-serif;
+}
+
+.btn-primary {
+    background-color: crimson;
+    outline: none;
+    border: none;
+}
+
+.btn-outline-success {
+    color: crimson;
+    border-color: crimson;
+}
+
+.table-dark {
+    background-color: #000;
+}
